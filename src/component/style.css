@@ -1,0 +1,103 @@
+
+.Banner_image{
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden; 
+    margin-top: 40px;   
+    
+}
+
+.quick_aa{
+     padding-top: 40px;
+    margin-bottom: 150px;
+    margin: 400px auto 12px;
+    padding-left: 60px;
+}
+
+.Banner_base{
+    
+    padding-top: 10px;
+    margin-top: 40px;
+}
+.quick_row{
+   
+    padding-top: 80px;  
+}
+.Banner_aa{
+    padding-top: 40px;
+
+}
+.Banner_bb{
+    padding-top:40px ;
+}
+.Banner_cc{
+    padding-top: 40px;
+}
+.card_aa{
+    padding-top: 80px;
+    font-size: small;
+    
+}
+.card_cc{
+    padding-top: 40px;
+}
+
+.card_bb{
+   min-height: 200px;
+}
+.text{
+    font-size: 5px ;
+}
+.mobile-number-login__whiteBox{
+    border-radius: 32px;
+    padding: 90px 70px 70px;
+    display: block;
+    margin: 0 auto;
+    background: #fff;
+    position: relative;
+    max-width: 470px;
+    min-width: 470px;
+}
+.mobile-number-login__headSec{
+    margin: 0 0 32px;
+    text-align: center;
+text-align: center;
+background-color: blue;
+color: lime;
+}
+.mobile-number-login__formSec{
+    margin: 0 0 110px;
+}
+.mobile-number-login__feildSec{
+    
+    margin: 0 0 40px;
+   
+}
+.mobile-number-login__form_outer{
+    position: relative;
+    margin: 0 0 20px;
+}
+.mobile-number-login__formInfoTxt{
+    text-align: center;
+}
+.mobile-number-login__signNwTxtInfo{
+    margin: 5px 0 15px;
+}
+.border{
+    box-sizing: border-box;
+  width: 50%;
+  border: 5px solid red;
+    border: 1px solid rgba(0,255,0,0.3);
+}
+
+
+
+
+
+
+
+
+
+
